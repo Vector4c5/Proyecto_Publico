@@ -1,1 +1,1 @@
-# Proyecto_Publico 
+Creare una pagina para ayudar a los master de juegos de rol para que puedan crear campañas de forma mas sencilla y creativa, probablemente añade guias y bestiarios ademas de algunos calabozos, el diseño de la pagina probablemente sera estilo medieval
